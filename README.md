@@ -58,12 +58,26 @@ ________________________________________
 
 # Sample Output:
 •	Login & Menu
+
+
+
+
 ![image alt](https://github.com/aroncodes1101/ATM-Simulator/blob/fdc80dce8e71c85a4a7e810d815072f0aed4f055/Login%20and%20Menu%20Page.png)
 •	Transaction
 Withdraw:
+
+
+
+
+
 ![image alt](
 
 Lodge:
+
+
+
+
+
 ![image alt](https://github.com/aroncodes1101/ATM-Simulator/blob/77507098ac00868c36a1c3d791b3a2115031b456/lodge.png)
 
 USER NAME: USER1

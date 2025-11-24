@@ -64,7 +64,7 @@ Withdraw:
 ![image alt](
 
 Lodge:
-![image alt](
+![image alt](https://github.com/aroncodes1101/ATM-Simulator/blob/77507098ac00868c36a1c3d791b3a2115031b456/lodge.png)
 
 USER NAME: USER1
 PIN: 1111

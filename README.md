@@ -1,7 +1,10 @@
-# ATM-Simulator
-This project is a simple command-line ATM Simulator built using Python. It replicates basic banking operations such as user login, checking balance, cash withdrawal, cash lodgement, and PIN change. The simulator is designed to be secure, user-friendly, and reliable, making it ideal for understanding how banking systems function at a basic level
+# ATM Simulator Using Python
+Overview of the Project
+This project is a simple command-line ATM Simulator built using Python.
+It replicates basic banking operations such as user login, checking balance, cash withdrawal, cash lodgement, and PIN change.
+The simulator is designed to be secure, user-friendly, and reliable, making it ideal for understanding how banking systems function at a basic level.
 ________________________________________
-Features
+## Features
 1. User Authentication
 •	Secure login with username and 4-digit PIN
 •	PIN entered using getpass for hidden input
@@ -19,14 +22,14 @@ Features
 4. Session Control
 •	Smooth exit from the system with proper termination messages
 ________________________________________
-Technologies / Tools Used
+## Technologies / Tools Used
 •	Programming Language: Python
 •	Key Modules:
 o	getpass – For secure PIN input
 •	Data Storage:
 o	In-memory lists storing users, PINs, and account balances
 ________________________________________
-Steps to Install & Run the Project
+## Steps to Install & Run the Project
 Prerequisites
 Ensure you have:
 •	Python 3.x installed
@@ -38,7 +41,7 @@ Installation & Running
 python atm_simulator.py
 4.	Follow the on-screen instructions to log in and perform transactions
 ________________________________________
-Instructions for Testing
+## Instructions for Testing
 1. Positive Testing
 •	Use valid username & PIN
 •	Perform successful withdrawals
@@ -53,9 +56,12 @@ Instructions for Testing
 •	Change PIN to the same existing PIN
 •	Enter non-numeric values
 
+# Sample Output:
+•	Login & Menu
+ 
+•	Transaction
+ 
+
 USER NAME: USER1
 PIN: 1111
-
-
 Author: ARON SMITH THOMAS
-

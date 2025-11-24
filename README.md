@@ -63,14 +63,26 @@ ________________________________________
 
 
 ![image alt](https://github.com/aroncodes1101/ATM-Simulator/blob/fdc80dce8e71c85a4a7e810d815072f0aed4f055/Login%20and%20Menu%20Page.png)
+
+
+
+
 •	Transaction
+
+
+
+
 Withdraw:
 
 
 
 
 
-![image alt](
+![image alt](https://github.com/aroncodes1101/ATM-Simulator/blob/7e083eaf0f0509cbc40b2ba1ba3a8cf57a802d78/withdraw.png)
+
+
+
+
 
 Lodge:
 
@@ -79,6 +91,10 @@ Lodge:
 
 
 ![image alt](https://github.com/aroncodes1101/ATM-Simulator/blob/77507098ac00868c36a1c3d791b3a2115031b456/lodge.png)
+
+
+
+
 
 USER NAME: USER1
 PIN: 1111
